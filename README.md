@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 or
 
-Download cheat in releases
+Download cheat in [releases](https://github.com/Read1dno/CS2ESP-external-cheat/releases/tag/v0.0.1)
 
 # Launch
 ```sh
@@ -20,7 +20,7 @@ python CS2ESP.py
 ```
 or
 
-Run the cheat in releases
+Run the cheat in [releases](https://github.com/Read1dno/CS2ESP-external-cheat/releases/tag/v0.0.1)
 
 # Using
 - Change the resolution of cs2 to yours.
@@ -35,7 +35,7 @@ I noticed that when installing "imgui" via pip, the error "ERROR: Failed to buil
 
 or
 
-Download cheat in releases
+Download cheat in [releases](https://github.com/Read1dno/CS2ESP-external-cheat/releases/tag/v0.0.1)
 
 # LICENSE
 This project is licensed under the terms of the MIT License - see the `LICENSE` file for details.
