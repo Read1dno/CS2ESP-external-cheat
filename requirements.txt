@@ -1,0 +1,7 @@
+pymem
+win32gui
+win32con
+glfw
+imgui[full]
+PyOpenGL
+requests
