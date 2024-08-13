@@ -1,6 +1,5 @@
 pymem
-win32gui
-win32con
+win32
 glfw
 imgui[full]
 PyOpenGL
